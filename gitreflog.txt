@@ -1,0 +1,32 @@
+d4c1033 refs/remotes/origin/master@{0}: update by push
+d4c1033 refs/heads/master@{0}: pull https://github.com/marytriny/Assignment1.git marysbranch: Fast-forward
+d4c1033 HEAD@{0}: pull https://github.com/marytriny/Assignment1.git marysbranch: Fast-forward
+3d373c9 HEAD@{1}: checkout: moving from marysbranch to master
+d4c1033 refs/remotes/origin/marysbranch@{0}: update by push
+d4c1033 refs/heads/marysbranch@{0}: commit: update main
+d4c1033 HEAD@{2}: commit: update main
+a4326b0 refs/heads/marysbranch@{1}: commit: update weaponfactory.cpp
+a4326b0 HEAD@{3}: commit: update weaponfactory.cpp
+391642c refs/heads/marysbranch@{2}: commit: updated answers.txt parts a-j and 5
+391642c HEAD@{4}: commit: updated answers.txt parts a-j and 5
+c173ea1 refs/heads/marysbranch@{3}: commit: 5 updated files
+c173ea1 HEAD@{5}: commit: 5 updated files
+f2fa35c refs/heads/marysbranch@{4}: commit: simplehammer.cpp
+f2fa35c HEAD@{6}: commit: simplehammer.cpp
+0c3d81d refs/heads/marysbranch@{5}: commit: simplehammer.h
+0c3d81d HEAD@{7}: commit: simplehammer.h
+ec913ce refs/heads/marysbranch@{6}: commit: answers.txt a-j
+ec913ce HEAD@{8}: commit: answers.txt a-j
+9110556 refs/remotes/origin/marysbranch@{1}: update by push
+9110556 refs/heads/marysbranch@{7}: commit: created answers.txt
+9110556 HEAD@{9}: commit: created answers.txt
+4c12099 refs/remotes/origin/marysbranch@{2}: update by push
+4c12099 refs/heads/marysbranch@{8}: commit: git status 3.C
+4c12099 HEAD@{10}: commit: git status 3.C
+7071d9c refs/heads/marysbranch@{9}: commit: Updated information files
+7071d9c HEAD@{11}: commit: Updated information files
+3d373c9 refs/heads/marysbranch@{10}: branch: Created from HEAD
+3d373c9 HEAD@{12}: checkout: moving from master to marysbranch
+3d373c9 refs/heads/master@{1}: clone: from https://github.com/marytriny/Assignment1.git
+3d373c9 refs/remotes/origin/HEAD@{0}: clone: from https://github.com/marytriny/Assignment1.git
+3d373c9 HEAD@{13}: clone: from https://github.com/marytriny/Assignment1.git
