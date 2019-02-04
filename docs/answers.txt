@@ -1,0 +1,75 @@
+// Maria Trinidad Guerra
+
+a. 
+
+Enumerating objects: 11, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 883 bytes | 126.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+remote:
+remote: Create a pull request for 'marysbranch' on GitHub by visiting:
+remote:      https://github.com/marytriny/Assignment1/pull/new/marysbranch
+remote:
+To https://github.com/marytriny/Assignment1.git
+ * [new branch]      marysbranch -> marysbranch
+***********************************************************************************
+b.
+
+5, git log 
+***********************************************************************************
+c.
+
+Feb 3 at 18:25
+
+cd ..		// go back to parent directory
+ls -all		// list all files, including hidden ones
+***********************************************************************************
+d.
+
+1. branches make it so that changes are not made directly on the master until the user 
+is ready.
+2. branches also make collaboration simpler because it allows users to branch off and 
+work on a feature without affecting the main program until they are done with that 
+feature.
+***********************************************************************************
+e.
+
+git status only provides the state of the current working directory, while git log 
+displays a history of all commits done on the project.
+***********************************************************************************
+f.
+
+git log Weapon.h
+***********************************************************************************
+g.
+
+git log --grep=file
+***********************************************************************************
+h.
+
+I. Inheritance: child classes inherit properties from a parent class.
+II. Polymorphism: refers to when something has many forms. This means there could be a 
+function that acts differently depending on the object because the functions name is 
+the same for all of the objects but has a different definition depending on the 
+object.
+III. Encapsulation: binds data and functions together to manipulate them in what we 
+call a class. 
+***********************************************************************************
+i. 
+
+"Dictator and Lieutenants" workflow is when a development is 
+distributed to multiple "lieutenants" and one "dictator" that is 
+responsible for making any changes to the repository. On the other 
+hand, a "centralized" workflow is when all users can make changes to 
+the repository.
+***********************************************************************************
+j.
+
+I prefer the "centralized" workflow where there is not one singular person in charge but 
+instead everyone shares the repository and makes changes as they wish.
+***********************************************************************************
+
+
