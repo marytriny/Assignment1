@@ -68,8 +68,14 @@ the repository.
 ***********************************************************************************
 j.
 
-I prefer the "centralized" workflow where there is not one singular person in charge but 
-instead everyone shares the repository and makes changes as they wish.
+They would benefit most from the "Dictator and Lieutenants" method because a group 
+that large making constant changes to the repository could get messy and 
+conflicting. Therefore, having one person manage these changes would be most 
+optimal.
 ***********************************************************************************
+5.
 
-
+This class uses Polymorphism since there are various weapons inheriting data from 
+the parent class "Weapons". 
+It also uses Encapsulation since the main functions only allows one to make changes 
+to the armor function.
