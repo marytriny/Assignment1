@@ -48,8 +48,7 @@ int main(int argc, char** argv) {
     simulateWeapon(weapon, armor);
     delete(weapon);
 
-    weapon = WeaponFactory::getInstance()->getWeapon("Super sparkly 
-sword");
+    weapon = WeaponFactory::getInstance()->getWeapon("Super sparkly sword");
     simulateWeapon(weapon, armor);
     delete(weapon);
 
